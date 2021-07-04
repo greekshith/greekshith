@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @greekshith
+- 👋 Hi, I’m Greekshith
 - 👀 I’m interested in python programming and science
 - 🌱 I’m currently learning python
